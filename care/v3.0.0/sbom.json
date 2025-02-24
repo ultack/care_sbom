@@ -1,0 +1,879 @@
+{
+  "sbom": {
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.ohcnetwork/care",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/827db480-80b7-45e5-8d7a-cf7dac30aa18",
+    "creationInfo": {
+      "creators": [
+        "Tool: protobom-devel",
+        "Tool: GitHub.com-Dependency-Graph"
+      ],
+      "created": "2025-02-24T05:43:59Z"
+    },
+    "packages": [],
+    "relationships": [
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-mypy-extensions-1.0.0-7b26ed",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-uritemplate-4.1.1-d87ce5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-click-plugins-1.1.1-41e328",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-click-repl-0.3.0-613322",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-vine-5.1.0-c8865b",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-jmespath-1.0.1-58cb0d",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-argon2-cffi-23.1.0-447376",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-argon2-cffi-bindings-21.2.0-91a7d4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-decorator-5.1.1-892651",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-extensions-3.2.3-fc0b53",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-ptyprocess-0.7.0-6ce22e",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-tblib-3.0.0-d8263e",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-text-unidecode-1.3-665fca",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-unicodecsv-0.14.1-b58159",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-cfgv-3.4.0-2e9f19",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-inflection-0.5.1-575b3d",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-python-ulid-1.1.0-6455d5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-stack-data-0.6.3-8bbc92",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-ply-3.11-85c2b1",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-coverage-plugin-3.1.0-f407c0",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-redis-5.4.0-6db1e3",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-ratelimit-4.1.0-437bcc",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-dry-rest-permissions-0.1.10-ac682a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-queryset-csv-1.1.0-f9b5e4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-healthy-django-0.1.0-922e5f",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-markupsafe-3.0.2-cb791e",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pexpect-4.9.0-315808",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-wcwidth-0.2.13-910f8b",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-djangoql-0.18.1-8609de",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-json-fingerprint-0.14.0-02f500",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-annotated-types-0.7.0-c3b888",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pure-eval-0.2.3-d06413",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-maintenance-mode-0.21.1-fc051c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-multidict-6.1.0-2802c5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-matplotlib-inline-0.1.7-122ff6",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-six-1.17.0-d35da5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pyyaml-6.0.2-a317b5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-parso-0.8.4-5acdab",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-more-itertools-10.6.0-861157",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-python-slugify-8.0.4-ff3525",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-gunicorn-23.0.0-228f73",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-werkzeug-3.1.3-d14904",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-asgiref-3.8.1-bc76c8",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pycparser-2.22-4f29ba",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-python-dateutil-2.9.0.post0-153c12",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-click-didyoumean-0.3.1-e28e87",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-requests-mock-1.12.1-3914c5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-python-fsutil-0.14.1-c2f27a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-redis-5.2.1-2572cc",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-click-8.1.8-c11881",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-celery-5.4.0-8e06fa",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-traitlets-5.14.3-98d9d6",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-drf-nested-routers-0.94.1-c3ec00",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-freezegun-1.5.1-2ec2d4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-requests-2.32.3-df064d",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-simple-history-3.7.0-895d2c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-nodeenv-1.9.1-9652f9",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-gprof2dot-2024.6.6-f7c250",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-typing-extensions-4.12.2-8973a0",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-djangorestframework-3.15.2-5635c9",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-urllib3-2.3.0-81f4dd",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pillow-11.1.0-ebf458",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-jsonschema-4.23.0-4074d9",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-pyopenssl-24.1.0.20240722-4487ce",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pycodestyle-2.12.1-a514e0",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-filter-24.3-50cc3f",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-packaging-24.2-5186ea",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-cryptography-44.0.0-0316c3",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-http-ece-1.2.1-7c9539",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-dirty-equals-0.8.0-9f0d91",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-distlib-0.3.9-0110a3",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-simplejson-3.19.3-5cab3a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-5.1.4-7c0c30",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-sqlparse-0.5.3-774e20",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-jedi-0.19.2-4abd8a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-cffi-1.17.1-2c268d",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-anymail-12.0-a2b86a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-idna-3.10-13a689",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pydantic-core-2.23.4-cba332",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pydantic-2.9.2-be47bd",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-platformdirs-4.3.6-583442",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-kombu-5.4.2-67ca6c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-billiard-4.2.1-8ab802",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-psycopg-3.2.3-3955d5",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-psycopg-c-3.2.3-c540bd",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-redis-4.6.0.20241004-06d36e",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-jsonschema-specifications-2024.10.1-8043a2",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pre-commit-4.0.1-ab1021",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pywebpush-2.0.1-d56456",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-requests-2.32.0.20241016-389927",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-frozenlist-1.5.0-7ec74e",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-cors-headers-4.6.0-dd7ba6",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-whitenoise-6.8.2-3f642f",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-watchdog-6.0.0-673507",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-sentry-sdk-2.18.0-837d68",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-redis-om-0.3.3-ab6b5c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-rest-passwordreset-1.5.0-8b144f",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-propcache-0.2.1-3736a4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-amqp-5.3.1-2c04f6",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-py-vapid-1.9.2-91b81f",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-polyfactory-2.18.1-227780",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pyjwt-2.10.1-4b2d85",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-asttokens-3.0.0-71bb65",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-drf-spectacular-0.28.0-9e25b6",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-aiohappyeyeballs-2.4.4-171b65",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-yarl-1.18.3-813c11",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-hiredis-3.1.0-cf07b1",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-rpds-py-0.22.3-84c110",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-newrelic-10.4.0-5bb9e0",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-aiosignal-1.3.2-dc8901",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-djangorestframework-stubs-3.15.2-cac73c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-silk-5.3.2-f6ee47",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-aiohttp-3.11.11-f9f94a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-ruff-0.8.4-bc5515",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-authlib-1.4.0-494508",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-ipython-8.31.0-47406b",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-cffi-1.16.0.20241221-09aadd",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-charset-normalizer-3.4.1-37b5f7",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-coverage-7.6.10-07fd2b",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-pyyaml-6.0.12.20241230-0379af",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-mypy-1.14.1-57ce29",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-faker-33.3.0-3259f3",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-model-bakery-1.20.1-ded96a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pygments-2.19.1-d5282c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-djangorestframework-simplejwt-5.4.0-55b802",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-setuptools-75.8.0-e4e4b4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-debugpy-1.8.12-8cc3cf",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-setuptools-75.8.0.20250110-597231",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-environ-0.12.0-56d106",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-stubs-5.1.2-f0ee42",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-django-stubs-ext-5.1.2-fc99c8",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-autopep8-2.3.2-481f48",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-pydantic-extra-types-2.10.2-b21d31",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-virtualenv-20.29.1-4ed3e7",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-prompt-toolkit-3.0.50-5930fc",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-identify-2.6.6-9a588e",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-tzdata-2025.1-392b13",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-filelock-3.17.0-6dc96a",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-executing-2.2.0-e795a4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-s3transfer-0.11.2-7609cb",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-s3transfer-0.11.2-def85b",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-referencing-0.36.2-0a6c44",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-attrs-25.1.0-9a12d4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-mypy-boto3-s3-1.36.9-80843b",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-certifi-2025.1.31-755610",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-types-awscrt-0.23.9-835a81",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-phonenumberslite-8.13.54-a81255",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-factory-boy-3.3.3-5ef7ca",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-boto3-1.36.12-c68421",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-boto3-stubs-1.36.12-e88cf4",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-botocore-stubs-1.36.12-f818d0",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-pypi-botocore-1.36.13-2d80a6",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actions-checkout-4..-87f130",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actions-upload-artifact-4..-fb60d2",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actions-download-artifact-4..-7c9dec",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-aws-actions-configure-aws-credentials-4..-90ab20",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-docker-setup-buildx-action-3..-a42320",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-aws-actions-amazon-ecs-render-task-definition-1..-6ef72c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-docker-login-action-3..-f878af",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actions-cache-4..-7989d7",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-docker-metadata-action-5..-85cf0d",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-getsentry-action-release-1..-f30063",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-aws-actions-amazon-ecs-deploy-task-definition-2..-10ad09",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-docker-build-push-action-6..-3776a1",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-JamesIves-github-pages-deploy-action-4..-dfbe12",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-python-5..-e45847",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-leonsteinhaeuser-project-beta-automations-1.0.1-3b2132",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actionscache-restore-4..-52c50c",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-actionscache-save-4..-991145",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-codecov-codecov-action-5..-0cbaae",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relatedSpdxElement": "SPDXRef-githubactions-reproducible-containers-buildkit-cache-dance-3.1.2-681305",
+        "relationshipType": "DEPENDS_ON"
+      },
+      {
+        "spdxElementId": "SPDXRef-DOCUMENT",
+        "relatedSpdxElement": "SPDXRef-github-ohcnetwork-care-develop-829a28",
+        "relationshipType": "DESCRIBES"
+      }
+    ]
+  }
+}
