@@ -36,7 +36,7 @@ jobs:
           FILTER_AWS="^aws-actions/|boto3|botocore|types-awscrt|mypy-boto3-s3"
           FILTER_DOCKER="^docker/"
 
-          FILTER_REGEX="($FILTER_CICD|$FILTER_AWS|$FILTER_DOCKER|${{ env.EXTRA_FILTERS }})"
+          FILTER_REGEX="($FILTER_CICD|$FILTER_AWS|$FILTER_DOCKER)"
 
           if [ ! -f "care/${{ env.CARE_VERSION }}/sbom.json" ]; then
             curl -H "Accept: application/vnd.github+json" \
